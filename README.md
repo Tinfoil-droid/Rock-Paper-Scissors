@@ -1,2 +1,2 @@
 # js-rps
-Rock, paper, scissors in javascript
+Project: Rock Paper Scissors for the Odin Project foundations course.
